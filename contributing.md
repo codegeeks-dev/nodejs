@@ -6,12 +6,12 @@
  
  * Make sure your code follows Google's JS style Guide   [Style Guide](https://google.github.io/styleguide/jsguide.html "Style Guide")
 
-#### Workflow ####
+#### Workflow: ####
 
 1. Fork this repo.
 2. Clone this repository in your machinee.
 ```
-$ git clone https://github.com/<username>/hexo.git
+$ git clone https://github.com/<username>/nodejs.git
 $ cd nodejs
 ```
 3. Create a feature branch.
